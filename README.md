@@ -68,7 +68,7 @@ bloc패턴을 통해서 기존의 react-redux-saga 패턴을 좀더 명확하게
 ## git 및 서비스 링크
 
 
-<del>- 공팔리터 : https://www.08liter.com</del>
+- 공팔리터 : https://www.08liter.com
 
 <del>- 넥시빗 : https://www.nexybit.com</del>
 
