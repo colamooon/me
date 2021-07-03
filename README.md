@@ -10,7 +10,7 @@
  - DB는 RDB는 mysql, oracle을 선호하고 서비스 성향이나 필요에 따라 redis같은 nosql을 조합해서 사용합니다.
  - 서비스 개발 시 먼저 fail over에 대응 가능한 고가용성 인프라를 고민하고 구축하는 것에 관심이 많습니다. 개발 언어나 기타 필요한 오픈소스들을 구성한 인프라에 맞춰 배치하고, 개발 연동하는 것에 재미를 느낍니다.
  - 요즘 선호하는 개발 스펙은 
->**client** : react(web : SEO때문에 nextjs 공부중 입니다), flutter(ios, android) 
+>**client** : react(web : SEO때문에 nextjs를 선호합니다), flutter(ios, android) 
 >**server** : spring boot webflux(ruby on rails 급의 생산성과 엔터프라이즈 환경에서의 대응 등을 고려했을 때 가장 적합한 것 같습니다)
 
 
